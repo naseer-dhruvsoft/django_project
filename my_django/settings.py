@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'djangoapplication-env-1.jctmmehkph.ap-south-1.elasticbeanstalk.com',
+    'djangoapplication-env-3.zqdtpfywqn.ap-south-1.elasticbeanstalk.com',
     '127.0.0.1',
 ]
 
