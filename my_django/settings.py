@@ -26,7 +26,7 @@ SECRET_KEY = '-lv^#nuh@c=(kd^0c0k(h5k5773hikmb=*poi84p&&=**=6-e2'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'DjangoApplication-env-3.zqdtpfywqn.ap-south-1.elasticbeanstalk.com',
+    'djangoapplication-env.ap-south-1.elasticbeanstalk.com',
     '127.0.0.1',
 ]
 
@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'application',
-    'storages',
 ]
 
 MIDDLEWARE = [
